@@ -1,3 +1,8 @@
 This is a commit for trial
 This is new commit from branch2
+<<<<<<< HEAD
 conflict line from branch2
+New line from branch master
+line to test git reset
+=======
+>>>>>>> parent of a551035... conflict comit from branch2
